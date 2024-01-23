@@ -19,8 +19,6 @@ function App() {
         }
       }
 
-      fetchItems();
-
   }, [reqType])
 
   return (
@@ -40,3 +38,8 @@ function App() {
 }
 
 export default App;
+
+
+
+
+
